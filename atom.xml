@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Liku&#39;s Blog</title>
+  
+  <subtitle>一个渣渣</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-20T12:26:29.916Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>zz</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>终于弄好啦？</title>
+    <link href="http://yoursite.com/2019/09/20/%E7%BB%88%E4%BA%8E%E5%BC%84%E5%A5%BD%E4%BA%86/"/>
+    <id>http://yoursite.com/2019/09/20/终于弄好了/</id>
+    <published>2019-09-20T11:32:18.000Z</published>
+    <updated>2019-09-20T12:26:29.916Z</updated>
+    
+    <content type="html"><![CDATA[<p>开心???</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;开心???&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
